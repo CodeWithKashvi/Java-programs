@@ -2,9 +2,6 @@
 Aim of the program:
 Write a program to print the corresponding grade for the given mark using if..else.
 */
-
-package lab1;
-
 import java.util.Scanner;
 
 class grade {
