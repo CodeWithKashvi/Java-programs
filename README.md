@@ -1,25 +1,27 @@
-# Java Programming Lab Repository
+# Java Programming Practice Repository
 
-This repository contains all the Java lab programs that I have implemented as part of my Java Programming coursework.  
-I am uploading each program topic-wise to keep track of my learning and practice.
+This repository contains the Java programs I have written while learning core Java concepts during my coursework and personal practice.  
+I am organizing the programs topic-wise to keep track of my progress and strengthen my fundamentals.
 
-## 👩‍💻 Student
-**Kashvi Jain**
+## 👩‍💻 Student  
+**Kashvi Jain**  
+2nd Year Engineering Student  
 
-## 📚 Labs I Have Covered
+## 📚 Topics Covered
 
-| Lab | Topics |
-|-----|--------|
-| Lab 1 | Basics, If-Else, Switch, Input/Output |
-| Lab 2 | Classes, Objects, Static, Constructors |
-| Lab 3 | Inheritance, Method Overriding |
-| Lab 4 | Abstract Classes, Interfaces |
-| Lab 5 | Packages, String Handling |
-| Lab 6 | Exception Handling |
-| Lab 7 | File Handling |
-| Lab 8 | GUI Programming using Swing |
-| Lab 9 | Multithreading |
-| Lab 10 | JDBC (Database Connectivity) |
+| Folder | Concepts |
+|--------|----------|
+| Basics | Input/Output, If-Else, Switch, Simple Logic Programs |
+| OOP_Concepts | Classes, Objects, Constructors, Static Variables |
+| Inheritance | Single & Multilevel Inheritance, Method Overriding |
+| Abstract_Interface | Abstract Classes and Interfaces |
+| Exception_Handling | Built-in and User Defined Exceptions |
+| File_Handling | File reading, writing, and file operations |
+| GUI_Swing | GUI programs using Java Swing |
+| Multithreading | Thread creation and synchronization |
+| JDBC | Database Connectivity using Java |
 
-Each program includes the **aim of the program as a comment** at the top of the file.  
-This repository is regularly updated as I complete more lab exercises.
+Each program includes the **aim of the program as a comment** at the top of the file for clarity.
+
+I update this repository regularly as I complete new programs and practice different Java concepts.
+
