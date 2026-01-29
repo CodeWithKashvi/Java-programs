@@ -1,3 +1,5 @@
+// Aim: Take first name and last name from user and print full name
+
 import java.util.Scanner;
 public class FullName{
     public static void main(String[] args) {
