@@ -1,14 +1,30 @@
-# 💻 CS29004 – Java Programming Lab
+# 💻 CS29004 – Java Programming
 
-This repository contains all lab experiments and practice programs completed as part of the **CS29004 Java Programming Lab** course.
+This repository contains all experiments and practice programs completed as part of the **CS29004 Java Programming** course.
 
-The lab covers core Java concepts starting from basics to advanced topics like GUI, Multithreading, and JDBC.
+The repository covers core Java concepts starting from basics to advanced topics like GUI, Multithreading, and JDBC.
 
 ---
 
-## 📚 Updated Lab Structure
+## 📑 Table of Contents
 
-### 🔹 Lab 1 – Java Basics
+- [Java Basics](#-java-basics)
+- [OOP Concepts](#-oop-concepts)
+- [Inheritance & Polymorphism](#-inheritance--polymorphism)
+- [Abstract Class & Interface](#-abstract-class--interface)
+- [Nested Classes in Java](#-nested-classes-in-java)
+- [Packages & String Handling](#-packages--string-handling)
+- [Exception Handling](#-exception-handling)
+- [File Handling](#-file-handling)
+- [GUI Programming (Swing)](#-gui-programming-swing)
+- [Multithreading](#-multithreading)
+- [JDBC (Java Database Connectivity)](#-jdbc-java-database-connectivity)
+- [Technologies Used](#-technologies-used)
+- [Objective](#-objective)
+
+---
+
+## 🔹 Java Basics
 - Java environment setup  
 - Writing, compiling & executing Java programs  
 - Arrays in Java  
@@ -16,7 +32,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 2 – OOP Concepts
+## 🔹 OOP Concepts
 - Command line arguments  
 - Scanner class  
 - `static` modifier  
@@ -25,7 +41,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 3 – Inheritance & Polymorphism
+## 🔹 Inheritance & Polymorphism
 - Single level inheritance  
 - Multi-level inheritance  
 - Method overriding  
@@ -34,7 +50,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 4 – Abstract Class & Interface
+## 🔹 Abstract Class & Interface
 - Abstract classes  
 - Interfaces  
 - Interface implementation  
@@ -42,14 +58,14 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 5 – Nested Classes in Java
+## 🔹 Nested Classes in Java
 - Inner Class  
 - Static Nested Class  
 - Anonymous Inner Class  
 
 ---
 
-### 🔹 Lab 6 – Packages & String Handling
+## 🔹 Packages & String Handling
 - Creating and using packages  
 - Access modifiers  
 - String operations:
@@ -62,7 +78,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 7 – Exception Handling
+## 🔹 Exception Handling
 - Try–Catch–Finally  
 - Built-in exceptions  
 - User-defined exceptions  
@@ -70,7 +86,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 8 – File Handling
+## 🔹 File Handling
 - FileReader & FileWriter  
 - FileInputStream & FileOutputStream  
 - Copying files  
@@ -79,7 +95,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 9 – GUI Programming (Swing)
+## 🔹 GUI Programming (Swing)
 - Swing components  
 - Event handling  
 - Registration form  
@@ -88,7 +104,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 10 – Multithreading
+## 🔹 Multithreading
 - Thread creation  
 - Synchronization  
 - Stopwatch application  
@@ -96,7 +112,7 @@ The lab covers core Java concepts starting from basics to advanced topics like G
 
 ---
 
-### 🔹 Lab 11 – JDBC (Java Database Connectivity)
+## 🔹 JDBC (Java Database Connectivity)
 - Display records from database  
 - Insert, Update, Delete operations  
 - Execute queries using GUI  
