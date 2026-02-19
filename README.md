@@ -1,27 +1,129 @@
-# Java Programming Practice Repository
+# 💻 CS29004 – Java Programming Lab
 
-This repository contains the Java programs I have written while learning core Java concepts during my coursework and personal practice.  
-I am organizing the programs topic-wise to keep track of my progress and strengthen my fundamentals.
+This repository contains all lab experiments and practice programs completed as part of the **CS29004 Java Programming Lab** course.
 
-## 👩‍💻 Student  
-**Kashvi Jain**  
-2nd Year Engineering Student  
+The lab covers core Java concepts starting from basics to advanced topics like GUI, Multithreading, and JDBC.
 
-## 📚 Topics Covered
+---
 
-| Folder | Concepts |
-|--------|----------|
-| Basics | Input/Output, If-Else, Switch, Simple Logic Programs |
-| OOP_Concepts | Classes, Objects, Constructors, Static Variables |
-| Inheritance | Single & Multilevel Inheritance, Method Overriding |
-| Abstract_Interface | Abstract Classes and Interfaces |
-| Exception_Handling | Built-in and User Defined Exceptions |
-| File_Handling | File reading, writing, and file operations |
-| GUI_Swing | GUI programs using Java Swing |
-| Multithreading | Thread creation and synchronization |
-| JDBC | Database Connectivity using Java |
+## 📚 Updated Lab Structure
 
-Each program includes the **aim of the program as a comment** at the top of the file for clarity.
+### 🔹 Lab 1 – Java Basics
+- Java environment setup  
+- Writing, compiling & executing Java programs  
+- Arrays in Java  
+- Class and Objects  
 
-I update this repository regularly as I complete new programs and practice different Java concepts.
+---
 
+### 🔹 Lab 2 – OOP Concepts
+- Command line arguments  
+- Scanner class  
+- `static` modifier  
+- Method overloading  
+- Constructor overloading  
+
+---
+
+### 🔹 Lab 3 – Inheritance & Polymorphism
+- Single level inheritance  
+- Multi-level inheritance  
+- Method overriding  
+- `super` and `final` keyword  
+- Dynamic Method Dispatch  
+
+---
+
+### 🔹 Lab 4 – Abstract Class & Interface
+- Abstract classes  
+- Interfaces  
+- Interface implementation  
+- Real-world problem-based programs  
+
+---
+
+### 🔹 Lab 5 – Nested Classes in Java
+- Inner Class  
+- Static Nested Class  
+- Anonymous Inner Class  
+
+---
+
+### 🔹 Lab 6 – Packages & String Handling
+- Creating and using packages  
+- Access modifiers  
+- String operations:
+  - Case conversion  
+  - Reverse string  
+  - Compare strings  
+  - Insert strings  
+  - Palindrome check  
+  - Count words, vowels & consonants  
+
+---
+
+### 🔹 Lab 7 – Exception Handling
+- Try–Catch–Finally  
+- Built-in exceptions  
+- User-defined exceptions  
+- Custom validation programs  
+
+---
+
+### 🔹 Lab 8 – File Handling
+- FileReader & FileWriter  
+- FileInputStream & FileOutputStream  
+- Copying files  
+- Comparing binary files  
+- Counting characters, words & lines  
+
+---
+
+### 🔹 Lab 9 – GUI Programming (Swing)
+- Swing components  
+- Event handling  
+- Registration form  
+- Calculator  
+- RGB color changer  
+
+---
+
+### 🔹 Lab 10 – Multithreading
+- Thread creation  
+- Synchronization  
+- Stopwatch application  
+- Thread-based programs  
+
+---
+
+### 🔹 Lab 11 – JDBC (Java Database Connectivity)
+- Display records from database  
+- Insert, Update, Delete operations  
+- Execute queries using GUI  
+- Display records with column headings  
+
+---
+
+## 🛠 Technologies Used
+- Java  
+- JDK  
+- Swing  
+- JDBC  
+- File Handling APIs  
+
+---
+
+## 🎯 Objective
+To understand and implement:
+- Core Java fundamentals  
+- Object-Oriented Programming concepts  
+- GUI development  
+- Exception handling  
+- File operations  
+- Multithreading  
+- Database connectivity  
+
+---
+
+## 📌 Note
+All programs are implemented for academic learning and practical understanding of Java programming concepts.
