@@ -20,7 +20,7 @@ public class ObjectCount {
             new Counter();
         }
 
-        System.out.println("Number of objects created: " + Counter.count);
+        System.out.println("Total number of objects created: " + Counter.count);
     }
 }
 
