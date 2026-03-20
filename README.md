@@ -1,6 +1,6 @@
 # 💻 CS29004 – Java Programming
 
-This repository contains all experiments and practice programs completed as part of the **CS29004 Java Programming** course.
+This repository contains all eiments and practice programs completed as part of the **CS29004 Java Programming** course.
 
 The repository covers core Java concepts starting from basics to advanced topics like GUI, Multithreading, and JDBC.
 
